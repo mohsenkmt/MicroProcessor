@@ -24,10 +24,10 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 #
 [خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino)
 
-در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino) است می توانیم با فرستادن پیام به صورت سریال به برد ال ای دی روی برد را روشن یا خاموش کنیم به صورت زیر:
-
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/3_On_Off_Led_By_Serial.jpeg" alt="On Off Led By Serial " />
 </p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino) است می توانیم با فرستادن پیام به صورت سریال به برد ال ای دی روی برد را روشن یا خاموش کنیم.
 
 #
