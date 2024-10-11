@@ -31,3 +31,10 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino) است می توانیم با فرستادن پیام به صورت سریال به برد ال ای دی روی برد را روشن یا خاموش کنیم.
 
 #
+
+[ماشین حساب ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/4_Calculator_Serial.ino)
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/4_Calculator_Serial.jpeg" alt="Calculator Serial " />
+</p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/4_Calculator_Serial.ino) است می توان چهار عمل اصلی جمع و تفریق ، ضرب و تفسیم را برای برد فرستاد و جواب را دریافت کرد.
