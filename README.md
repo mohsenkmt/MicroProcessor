@@ -1,2 +1,4 @@
-# Micro-Processor
-University Micro-Processor By Arduino
+# MicroProcessor
+## ریز پردازنده
+University Microprocessor Project by Arduino پروژه ریز پردازنده دانشگاه بوسیله آردوینو
+
