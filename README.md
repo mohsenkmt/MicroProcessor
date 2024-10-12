@@ -8,6 +8,10 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [چشمک زن](https://github.com/mohsenkmt/Micro-Processor/blob/main/Arduino%20File/1_one_led_blinker.ino#L12)
 
 <p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/1_one_led_blinker1.gif" alt="LED Blinker" />
+</p>
+
+<p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/raw/main/Photo/1_one_led_blinker.png" alt="LED Blinker" />
 </p>
 
