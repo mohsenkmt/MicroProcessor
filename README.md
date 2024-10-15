@@ -60,4 +60,5 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/5_Sin_Cos.jpeg" alt="Sin,Cos" />
 </p>
+
 #
