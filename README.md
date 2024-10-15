@@ -49,3 +49,15 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 </p>
 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/4_Calculator_Serial.ino) است می توان چهار عمل اصلی جمع و تفریق ، ضرب و تفسیم را برای برد فرستاد و جواب را دریافت کرد.
+#
+[نمودار سینوس ، کسیسنوس ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/5_Sin_Cos.ino)
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/5_Sin_Cos1.jpeg" alt="Sin,Cos" />
+</p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/5_Sin_Cos.ino) قرار دارد می توان نمودار سینوس و کسیسنوس را در Serial Ploter نشان داد.
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/5_Sin_Cos.jpeg" alt="Sin,Cos" />
+</p>
+#
