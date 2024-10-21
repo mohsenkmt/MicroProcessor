@@ -93,7 +93,7 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/8_Electronic_dice.ino) است می توان بوسیله یک کلید برنامه تاس الکترونیکی اچرا کرد که با هر بار زدن دکمه یک عدد تصادفی بین 1 تا 6 در سریال مانیتور چاپ می شود و همچنین ال ای دی مربوط به همان شماره نیز روشن می شود.که شماتیک آن به صورت زیر است:
 
 <p align="center">
-  <img src="[https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/7_danclight.jpeg](https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg)" alt="Electronic dice" />
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg" alt="Electronic dice" />
 </p>
 
 #
