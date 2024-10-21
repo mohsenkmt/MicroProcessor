@@ -115,3 +115,16 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 </p>
 
 #
+
+[تغییر ولتاژ با پتاسیومتر و نمایش ولتاژ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/10_Potentiometer_Voltage.ino)
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/10_Potentiometer_Voltage1.png" alt="Potentiometer Voltage" />
+</p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/10_Potentiometer_Voltage.ino) است می توان بوسیله یک پتاسیومتر ولتاژ خروجی پایه را بین 0 تا 5 ولت تغییر داد همچنین ولتاژ را در سریال مانیتور چاپ کرد.که شماتیک آن به صورت زیر است:
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/10_Potentiometer_Voltage.jpg" alt="Potentiometer Voltage" />
+</p>
+
+#
