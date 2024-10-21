@@ -128,3 +128,16 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 </p>
 
 #
+
+[خاموش روشن شدن ال ای دی به صورت از شدت کم به زیاد](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/11_LED_LowtoHigh.ino)
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/11_LED_LowtoHigh.gif" alt="LED LOW TO HIGH" />
+</p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/11_LED_LowtoHigh.ino) است ،  ال ای دی از شدت کم به زیاد روشن می شود و سپس از شدت زیاد به کم خاموش می شود . شماتیک به صورت زیر است:
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/11_LED_LowtoHigh.jpeg" alt="LED LOW TO HIGH" />
+</p>
+
+#
