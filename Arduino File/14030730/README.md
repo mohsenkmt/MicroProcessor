@@ -23,3 +23,21 @@
 </p>
 
 #
+
+[روشن شدن ال ای دی با پتاسیومتر](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/9_Potentiometer_LED.ino)
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/9_Potentiometer_LED.gif" alt="Potentiometer LED" />
+</p>
+
+در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/9_Potentiometer_LED.ino) است می توان بوسیله یک پتاسیومتر ال ای دی را خاموش و روشن کرد و شدت نور آن را تنظیم کرد.که شماتیک آن به صورت زیر است:
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/9_Potentiometer_LED.jpg" alt="Potentiometer LED" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/9_Potentiometer_LED1.gif" alt="Potentiometer LED" />
+</p>
+
+#
