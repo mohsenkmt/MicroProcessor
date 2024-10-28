@@ -1,6 +1,7 @@
 #
 
-[نمایش آدمک روی ال سی دی](ttps://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030807/2%20LCD%20Show%20Character/LCD%20Show%20Character.ino)
+ [نمایش آدمک روی ال سی دی](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030807/2%20LCD%20Show%20Character/LCD%20Show%20Character.ino)
+
 
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/13_LCD_Show_Character.png" alt="LCD Hello" />
