@@ -34,6 +34,7 @@ void loop() {
   
   Serial.println(distances);
   lcd.print(distances);
+  lcd.print(" CM");
   delay(500);
   lcd.clear();
 
