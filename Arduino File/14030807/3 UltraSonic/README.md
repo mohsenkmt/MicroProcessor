@@ -1,6 +1,6 @@
 #
 
- [راه اندازی سنسور التراسونیک](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030807/3%20UltraSonic/UltraSonic.ino)
+ [ سنسور التراسونیک](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030807/3%20UltraSonic/UltraSonic.ino)
 
 
 <p align="center">
