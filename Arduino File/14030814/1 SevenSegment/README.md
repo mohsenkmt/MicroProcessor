@@ -1,6 +1,6 @@
 #
 
-[راه اندازی ال سی دی کاراکتری](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/1%20SevenSegment/SevenSegment.ino)
+[ راه اندازی سون سگمنت](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/1%20SevenSegment/SevenSegment.ino)
 
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/15_SevenSegment.gif" alt="Seven Segment" />
