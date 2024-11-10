@@ -3,6 +3,6 @@
 
 [آزمایش 1 راه اندازی سون سگمنت](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/1%20SevenSegment/README.md)
 
-[آزمایش 2 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/2%20LCD%20Show%20Character)
+[آزمایش 2 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/2%20Photocell/README.md)
 
 [آزمایش 3 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/3%20UltraSonic)
