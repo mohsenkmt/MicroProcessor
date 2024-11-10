@@ -27,14 +27,14 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 
 [11 خاموش روشن شدن ال ای دی به صورت از شدت کم به زیاد](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
 
-[12 راه اندازی ال سی دی کاراکتری](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807)
+[12 راه اندازی ال سی دی کاراکتری](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/1%20LCD%20Print%20Hello%20World)
 
-[13 نمایش آدمک روی ال سی دی](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807)
+[13 نمایش آدمک روی ال سی دی](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/2%20LCD%20Show%20Character)
 
-[14 سنسور التراسونیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807)
+[14 سنسور التراسونیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/3%20UltraSonic)
 
-[15 راه اندازی سون سگمنت](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814)
+[15 راه اندازی سون سگمنت](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/1%20SevenSegment)
 
-[16 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814)
+[16 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/2%20Photocell)
 
-[17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814)
+[17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/3%20Speaker)
