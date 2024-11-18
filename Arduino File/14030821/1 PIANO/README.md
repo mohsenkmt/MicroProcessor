@@ -1,25 +1,21 @@
 #
 
-[ پیان.](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030821/1%20PIANO/PIANO.ino)
+[ پیانو](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030821/1%20PIANO/PIANO.ino)
 
 <p align="center">
-  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/15_SevenSegment.gif" alt="Seven Segment" />
+  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/18_piano.jpeg" alt="PIANO" />
 </p>
 
 
 # ابزار و وسایل مورد نیاز :
 * برد آردوینو UNO R3
-* سون سگمنت
+* پوش باتن به تعداد لازم
 * برد بورد
-* مقاومت 220 اهم
+* اسپیکر نیم وات
 * سیم مخابراتی به تعداد لازم
 * کامپیوتر یا لپ تاپ
 
-<p align="center">
-  <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/15_SevenSegment.jpeg" alt="Seven Segment" />
-</p>
-
  # شرح آزمایش : 
- در ابتدا ابزار و وسایل مورد نیاز را تهیه می کنیم و طبق [شماتیک](https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/15_SevenSegment.jpeg) موجود آن ها را به کمک برد بورد به برد آردوینو متصل می کنیم ، سپس در کامپیوتر به کمک نرم افزار Arduino IDE کدی در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/1%20SevenSegment/SevenSegment.ino) قرار دارد را روی برد آردوینو UNO R3 پروگرام می کنیم.
- بعد از پروگرام کردن کد اگر اتصالات به درستی متصل شده باشند و قطعات مشکلی نداشته باشند باید سون سگمنت اعداد 0 تا 9 را به ترتیب نمایش دهد.همچنین در کدی که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030814/1%20SevenSegment/SevsegLib.ino) قرار دارد به وسیله کتابخانه SevSeg اینکار انجام شده است.
+ در ابتدا ابزار و وسایل مورد نیاز را تهیه می کنیم و طبق [شماتیک](https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/18_piano.jpeg) موجود آن ها را به کمک برد بورد به برد آردوینو متصل می کنیم ، سپس در کامپیوتر به کمک نرم افزار Arduino IDE کدی در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030821/1%20PIANO/PIANO.ino) قرار دارد را روی برد آردوینو UNO R3 پروگرام می کنیم.
+ بعد از پروگرام کردن کد اگر اتصالات به درستی متصل شده باشند و قطعات مشکلی نداشته باشند باید با فشردن هر یکی از پوش باتن ها یک صدا از اسپیکر خارج شود.
 
