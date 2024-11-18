@@ -40,3 +40,5 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/3%20Speaker)
 
 [18 پیانو](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/1%20PIANO)
+
+[19 نمایش دما با LM35](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/2%20LM35)
