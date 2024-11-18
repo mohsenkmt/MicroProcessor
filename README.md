@@ -38,3 +38,4 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [16 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/2%20Photocell)
 
 [17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/3%20Speaker)
+[17 پیانو](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/1%20PIANO)
