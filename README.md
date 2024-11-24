@@ -44,3 +44,11 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [19 نمایش دما با LM35](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/2%20LM35)
 
 [20 دما و رطوبت با DHT11](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/3%20DHT11)
+
+[21 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+
+[22 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+
+[23 راه اندازی موتور DC با L298N](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+
+[24 راه اندازی موتور DC با L298N با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
