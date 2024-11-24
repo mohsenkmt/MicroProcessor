@@ -45,10 +45,10 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 
 [20 دما و رطوبت با DHT11](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/3%20DHT11)
 
-[21 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+[21 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/1%20Master_Slave%20POT)
 
-[22 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+[22 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/2%20Master_Slave%20Serial)
 
-[23 راه اندازی موتور DC با L298N](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+[23 راه اندازی موتور DC با L298N](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/3%20L298N)
 
-[24 راه اندازی موتور DC با L298N با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828)
+[24 راه اندازی موتور DC با L298N با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/4%20L298N%20POT)
