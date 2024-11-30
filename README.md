@@ -52,3 +52,11 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [23 راه اندازی موتور DC با L298N](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/3%20L298N)
 
 [24 راه اندازی موتور DC با L298N با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/4%20L298N%20POT)
+
+[25 راه اندازی کیپد 4 در 4](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/1%20Keypad%20Launch)
+
+[26 ماشین حساب با کیپد ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/2%20Calculator%20With%20Keypad)
+
+[27 راه اندازی جوی استیک ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/3%20Joystick%20Launch)
+
+[28 تغییر وضعیت ال ای دی با جوی استیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/4%20Joystick%20LED%20Reaction)
