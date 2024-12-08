@@ -60,3 +60,7 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 [27 راه اندازی جوی استیک ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/3%20Joystick%20Launch)
 
 [28 تغییر وضعیت ال ای دی با جوی استیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/4%20Joystick%20LED%20Reaction)
+
+[29 راه اندازی سنسور HW201](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030912/1%20HW201)
+
+[30 راه اندازی ماژول بلوتوث HC05 ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030912/2%20HC05)
