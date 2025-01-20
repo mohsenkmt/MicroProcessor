@@ -24,3 +24,5 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/13_LCD_Show_Character.gif" alt="LCD Hello" />
 </p>
+# نتیجه گیری : 
+ از این آزمایش کار با ال سی دی و نمایش کارکتر های خاص را یاد گرفتیم.
