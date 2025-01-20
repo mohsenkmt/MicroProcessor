@@ -28,3 +28,5 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/14UltraSonic.gif" alt="Ultra Sonic" />
 </p>
+# نتیجه گیری : 
+ از این آزمایش نتیجه گرفتیم برای تشخیص فاصله اجسام و تشخیص موانع می توانیم از سنسور التراسونیک استفاده کنیم.
