@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/7_danclight.jpeg" alt="DanceLight" />
 </p>
+
 # نتیجه گیری : 
  از این آزمایش نحوه ایجاد یک حالت نورانی با ال ای دی را یاد گرفتیم.
  
@@ -23,6 +24,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg" alt="Electronic dice" />
 </p>
+
 # نتیجه گیری : 
  از این آزمایش نحوه انتخاب و نمایش اعداد تصادفی بین 1 تا 6 را یاد گرفتیم.
  
@@ -43,6 +45,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Video/9_Potentiometer_LED1.gif" alt="Potentiometer LED" />
 </p>
+
 # نتیجه گیری : 
  از این آزمایش نحوه تنظیم شدت نور به وسیله مقادیر پتاسیومتر را یاد گرفتیم.
  
@@ -58,6 +61,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/10_Potentiometer_Voltage.jpg" alt="Potentiometer Voltage" />
 </p>
+
 # نتیجه گیری : 
  از این آزمایش نحوه خواندن مقدار پتاسیومتر و اعمال رفتاری بر اساس آن را یاد گرفتیم.
 
@@ -73,6 +77,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/11_LED_LowtoHigh.jpeg" alt="LED LOW TO HIGH" />
 </p>
+
 # نتیجه گیری : 
  از این آزمایش مود PWM را یاد گرفتیم.
 
