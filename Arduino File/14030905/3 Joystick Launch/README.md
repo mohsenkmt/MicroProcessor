@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8660f87b-4444-40d1-9b0f-2d077da92428)#
 
 [ راه اندازی جوی استیک ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/14030905/3%20Joystick%20Launch/Joystick%20Launch.ino)
 
