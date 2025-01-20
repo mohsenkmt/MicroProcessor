@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/5_Sin_Cos.jpeg" alt="Sin,Cos" />
 </p>
+# نتیجه گیری : 
+ از این آزمایش نمایش نمودار در سریال پلاتر را آموختیم.
 
 #
 [روشن شدن ال ای دی با کلید ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/6_Pushbutton_LED_ON_OFF.ino)
@@ -19,3 +21,5 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/6_Pushbutton_LED_ON_OFF.jpeg" alt="Pushbutton LED ON OFF" />
 </p>
+# نتیجه گیری : 
+ از این آزمایش کار با پوش باتن ها را یاد گرفتیم.
