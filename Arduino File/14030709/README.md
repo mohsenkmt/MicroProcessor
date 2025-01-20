@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/raw/main/Photo/1_one_led_blinker1.jpeg" alt="LED Blinker" />
 </p>
+
+# نتیجه گیری : 
+ از این آزمایش روشن و خاموش کردن یک ال ای دی و درنتیجه چشمک زدن آن در فواصل زمانی مختلف را یاد گرفتیم
+ .
