@@ -5,6 +5,9 @@
 
 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/2_Two_Led_Blinker.ino) قرار دارد 2 عدد LED را به طور یکی در میان خاموش و روشن می کنیم.
+
+# نتیجه گیری : 
+ از این آزمایش ترتیب دستورات در برد آردوینو و درنتیجه خاموش روشن کردن ال ای دی ها به صورت یکی در میان را یاد گرفتیم.
 #
 [خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino)
 
@@ -14,6 +17,8 @@
 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/3_On_Off_Led_By_Serial.ino) است می توانیم با فرستادن پیام به صورت سریال به برد ال ای دی روی برد را روشن یا خاموش کنیم.
 
+# نتیجه گیری : 
+ از این آزمایش ارسال دستور در سریال مانیتور و تفسیر این دستورات را یاد گرفتیم.
 #
 
 [ماشین حساب ](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/4_Calculator_Serial.ino)
@@ -22,3 +27,6 @@
 </p>
 
 در این کد که در [اینجا](https://github.com/mohsenkmt/MicroProcessor/blob/main/Arduino%20File/4_Calculator_Serial.ino) است می توان چهار عمل اصلی جمع و تفریق ، ضرب و تفسیم را برای برد فرستاد و جواب را دریافت کرد.
+
+# نتیجه گیری : 
+ از این آزمایش انجام پردازش روی داده های ارسالی از سریال مانیتور را یاد گرفتیم.
